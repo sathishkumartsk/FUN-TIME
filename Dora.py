@@ -1,0 +1,20 @@
+from turtl import*
+from doraemon import*
+
+pensize(3)
+speed(8)
+head()
+belt()
+face()
+nose()
+mouth()
+whisker()
+body()
+arms()
+pocket()
+bell()
+black_eyes()
+penup()
+goto(100,-300)
+ht()
+done()
